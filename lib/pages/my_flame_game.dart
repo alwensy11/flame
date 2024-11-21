@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'dart:ui';
 
-import 'package:dasar_flame/component/asteroid.dart';0.
+import 'package:dasar_flame/component/asteroid.dart';
 import 'package:dasar_flame/component/asteroid_spawner.dart';
 import 'package:dasar_flame/component/bgParallaxComponent.dart';
 import 'package:dasar_flame/component/ship.dart';
