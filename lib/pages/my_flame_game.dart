@@ -1,6 +1,6 @@
 import 'dart:async';
 import 'dart:ui';
-
+//import package
 import 'package:dasar_flame/component/asteroid.dart';
 import 'package:dasar_flame/component/asteroid_spawner.dart';
 import 'package:dasar_flame/component/bgParallaxComponent.dart';
@@ -40,5 +40,4 @@ class MyFlameGame extends FlameGame with PanDetector {
     bgParallax.changeSpeedBasedShip(s);
     super.update(dt);
   }
-
 }
